@@ -5,7 +5,7 @@ Questa repository è relativa all'implementazione un modello di Sentiment Analys
 Il modello è raffinato (fine-tuning) sul task di classificazione di recensioni su chatGPT per classificare il sentiment come positivo, neutro o negativo.
 Il dataset utilizzato è scaricabile al seguente [link](https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis).
 
-![alt_text]()
+![alt_text](data/nuvola.png)
 
 ## Requisiti
 - Python 3.9 o versioni successive
